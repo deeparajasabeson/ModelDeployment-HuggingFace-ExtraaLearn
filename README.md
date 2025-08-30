@@ -2,6 +2,7 @@
 Model Deployment in Hugging Face - Both Frontend (StreamLite) and Backend in Docker Container 
 
 **Problem Statement**
+
 **Business Context**
 
 The EdTech industry has been surging in the past decade immensely, and according to a forecast, the Online Education market would be worth $286.62 bn by 2023 with a compound annual growth rate (CAGR) of 10.26% from 2018 to 2023. The modern era of online education has enforced a lot in its growth and expansion beyond any limit. Due to having many dominant features like ease of information sharing, personalized learning experience, transparency of assessment, etc, it is now preferable to traditional education.
@@ -11,6 +12,7 @@ In the present scenario due to the Covid-19, the online education sector has wit
 	• The customer connects through emails for more information.
 The company then nurtures these leads and tries to convert them to paid customers. For this, the representative from the organization connects with the lead on call or through email to share further details.
 
+
 **Objective**
 
 ExtraaLearn is an initial stage startup that offers programs on cutting-edge technologies to students and professionals to help them upskill/reskill. With a large number of leads being generated on a regular basis, one of the issues faced by ExtraaLearn is to identify which of the leads are more likely to convert so that they can allocate resources accordingly. You, as a data scientist at ExtraaLearn, have been provided the leads data to:
@@ -18,9 +20,8 @@ ExtraaLearn is an initial stage startup that offers programs on cutting-edge tec
 	• Find the factors driving the lead conversion process
 	• Create a profile of the leads which are likely to convert
 
+
 **Data Description**
-
-
 
 The data contains the different attributes of leads and their interaction details with ExtraaLearn. The detailed data dictionary is given below.
 	• ID: ID of the lead.
