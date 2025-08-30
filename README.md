@@ -42,4 +42,3 @@ The data contains the different attributes of leads and their interaction detail
 	• educational_channels: Flag indicating whether the lead had heard about ExtraaLearn in the education channels like online forums, discussion threads, educational websites, etc.
 	• referral: Flag indicating whether the lead had heard about ExtraaLearn through reference.
 	• status: Flag indicating whether the lead was converted to a paid customer or not.
-<img width="1193" height="3080" alt="image" src="https://github.com/user-attachments/assets/e5e7ea83-ff43-4101-80e3-fd6369358a85" />
